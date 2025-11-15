@@ -56,3 +56,5 @@ ums-testserver.jar
 /osx
 package-lock.json
 react-client/package-lock.json
+NodeBB/
+react-client/playwright-report/
